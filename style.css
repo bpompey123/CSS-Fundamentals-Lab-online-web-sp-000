@@ -27,3 +27,8 @@ nav > a {
   text-align: center;
   background: red;
 }
+
+#details > div {
+  display: inline-block;
+  margin: 0% 5% 0% 5%;
+}
